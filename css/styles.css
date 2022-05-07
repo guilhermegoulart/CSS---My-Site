@@ -7,7 +7,7 @@ h1 {
 }
 
 div .top-container {
-  background-color: #effffd;
+  background-color: hsl(173, 100%, 97%);
   height: 200px;
   width: 200px;
 }
